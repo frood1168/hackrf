@@ -1,7 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "gsg-symbols") (type "Legacy") (uri "C:/Workspace/gito/hackrf/hardware/gsg-kicad-lib/gsg-symbols.lib") (options "") (descr ""))
-	(lib (name "hackrf") (type "Legacy") (uri "C:/Workspace/gito/hackrf/hardware/kicad/hackrf.lib") (options "") (descr ""))
-	(lib (name "operacake-rescue") (type "Legacy") (uri "${KIPRJMOD}/operacake-rescue.lib") (options "") (descr ""))
-	(lib (name "HackRF_Resources") (type "KiCad") (uri "C:/Workspace/KiCad_Resources/HackRF_Resources.kicad_sym") (options "") (descr ""))
-)
