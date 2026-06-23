@@ -1,5 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "gsg-symbols") (type "Legacy") (uri "C:/Workspace/gito/hackrf/hardware/gsg-kicad-lib/gsg-symbols.lib") (options "") (descr ""))
-	(lib (name "hackrf") (type "Legacy") (uri "C:/Workspace/gito/hackrf/hardware/kicad/hackrf.lib") (options "") (descr ""))
-)
